@@ -555,7 +555,7 @@
         "name": "Zenith Speedrun+",
         "value": 24.505,
         "unit": "seconds",
-        "user": "GameTilDead"
+        "user": "GTD"
     },
     {
         "name": "Zenith Speedrunner",
@@ -783,7 +783,7 @@
         "name": "Perfect Speedrun",
         "value": 3.53,
         "unit": "q/s",
-        "user": "GameTilDead"
+        "user": "GTD"
     },
     {
         "name": "Painful Relapse",
