@@ -216,7 +216,7 @@
         "user": "Tizago"
     },
     {
-        "name": "Armagedon",
+        "name": "Armageddon",
         "value": 1520.7,
         "unit": "meters",
         "user": "GTD"
@@ -447,7 +447,7 @@
         "name": "Grandmaster",
         "value": 9865.7,
         "unit": "meters",
-        "user": ""
+        "user": "Ponies"
     },
     {
         "name": "Starving Artist",
@@ -592,5 +592,269 @@
         "value": 791,
         "unit": "spike",
         "user": "TheBestNoob"
+    },
+    {
+        "name": "Love Hotel",
+        "value": 218.1,
+        "unit": "m/s",
+        "user": "Taha22"
+    },
+    {
+        "name": "Financially Responsible",
+        "value": 38.7,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Unfair Battle",
+        "value": 4.345,
+        "unit": "seconds",
+        "user": "MrZ"
+    },
+    {
+        "name": "Museum Heist",
+        "value": 505.1,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Workaholic",
+        "value": 123.5,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Human Experiment",
+        "value": 448,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Themal Anomaly",
+        "value": 549.5,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Ultra Dash",
+        "value": 605.2,
+        "unit": "m/s",
+        "user": "Arghena"
+    },
+    {
+        "name": "Perfect Speedrun",
+        "value": 3.37,
+        "unit": "q/s",
+        "user": "Arghena"
+    },
+    {
+        "name": "Perfectionist",
+        "value": 20189.5,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Petaspeed",
+        "value": 39,
+        "unit": "ranks",
+        "user": "Arghena"
+    },
+    {
+        "name": "Cruise Control",
+        "value": 26,
+        "unit": "ranks",
+        "user": "Ponies + 2 players"
+    },
+    {
+        "name": "Steganography",
+        "value": 5921.5,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Trench Warfare",
+        "value": 2561.11,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Grand-Master!",
+        "value": 2050.62,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Endless Gluttony",
+        "value": 1772.85,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Uneasy Alliance",
+        "value": 2179.2,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Core Meltdown",
+        "value": 0.529,
+        "unit": "seconds",
+        "user": "MrZ"
+    },
+    {
+        "name": "Brain Capacity",
+        "value": 6975.3,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Swamp Water Pro",
+        "value": 3054.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Ambrosia Moonshine",
+        "value": 3054.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Deadbeat",
+        "value": 2791.9,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Love Hotel",
+        "value": 218.1,
+        "unit": "m/s",
+        "user": "Taha22"
+    },
+    {
+        "name": "Financially Responsible",
+        "value": 38.7,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Unfair Battle",
+        "value": 4.345,
+        "unit": "seconds",
+        "user": "MrZ"
+    },
+    {
+        "name": "Museum Heist",
+        "value": 505.1,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Workaholic",
+        "value": 123.5,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Human Experiment",
+        "value": 448,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Themal Anomaly",
+        "value": 549.5,
+        "unit": "m/s",
+        "user": "Ponies"
+    },
+    {
+        "name": "Ultra Dash",
+        "value": 605.2,
+        "unit": "m/s",
+        "user": "Arghena"
+    },
+    {
+        "name": "Perfect Speedrun",
+        "value": 3.37,
+        "unit": "q/s",
+        "user": "Arghena"
+    },
+    {
+        "name": "Perfectionist",
+        "value": 20189.5,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Petaspeed",
+        "value": 39,
+        "unit": "ranks",
+        "user": "Arghena"
+    },
+    {
+        "name": "Cruise Control",
+        "value": 26,
+        "unit": "ranks",
+        "user": "Ponies + 2 players"
+    },
+    {
+        "name": "Steganography",
+        "value": 5921.5,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Trench Warfare",
+        "value": 2561.11,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Grand-Master!",
+        "value": 2050.62,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Endless Gluttony",
+        "value": 1772.85,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Uneasy Alliance",
+        "value": 2179.2,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Core Meltdown",
+        "value": 0.529,
+        "unit": "seconds",
+        "user": "MrZ"
+    },
+    {
+        "name": "Brain Capacity",
+        "value": 6975.3,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Swamp Water Pro",
+        "value": 3054.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Ambrosia Moonshine",
+        "value": 3054.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Deadbeat",
+        "value": 2791.9,
+        "unit": "meters",
+        "user": "Ponies"
     }
 ]
