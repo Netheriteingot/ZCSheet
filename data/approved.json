@@ -517,7 +517,7 @@
     },
     {
         "name": "Typer Speedrun",
-        "value": 10.5,
+        "value": 9.7,
         "unit": "seconds",
         "user": "GTD"
     },
@@ -649,9 +649,9 @@
     },
     {
         "name": "Perfect Speedrun",
-        "value": 3.37,
+        "value": 3.53,
         "unit": "q/s",
-        "user": "Arghena"
+        "user": "GTD"
     },
     {
         "name": "Perfectionist",
