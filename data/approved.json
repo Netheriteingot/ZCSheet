@@ -524,20 +524,26 @@
     {
         "name": "Supercharged+",
         "value": 864,
-        "unit": "b2b",
+        "unit": "B2B",
         "user": "Arghena"
     },
     {
         "name": "Multitasker",
         "value": 147685,
-        "unit": "mp",
+        "unit": "MP",
         "user": "Arghena"
     },
     {
         "name": "Effective",
         "value": 94074,
-        "unit": "zp",
+        "unit": "ZP",
         "user": "Tizago"
+    },
+    {
+        "name": "Supercharged",
+        "value": 288,
+        "unit": "B2B",
+        "user": "MrZ"
     },
     {
         "name": "Zenith Speedrun",
@@ -778,6 +784,12 @@
         "value": 3.37,
         "unit": "q/s",
         "user": "Arghena"
+    },
+    {
+        "name": "Painful Relapse",
+        "value": 1720.5,
+        "unit": "meters",
+        "user": "Lavender"
     },
     {
         "name": "Perfectionist",
