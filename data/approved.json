@@ -135,7 +135,7 @@
         "name": "The Unreliable One",
         "value": 18,
         "unit": "kills",
-        "user": "GTD"
+        "user": "GameTilDead"
     },
     {
         "name": "Detail Oriented",
@@ -219,13 +219,13 @@
         "name": "Armageddon",
         "value": 1520.7,
         "unit": "meters",
-        "user": "GTD"
+        "user": "GameTilDead"
     },
     {
         "name": "Abyss",
-        "value": 919.6,
+        "value": 1016,
         "unit": "meters",
-        "user": "GTD"
+        "user": "GameTilDead"
     },
     {
         "name": "The Tyrant",
@@ -519,7 +519,7 @@
         "name": "Typer Speedrun",
         "value": 9.7,
         "unit": "seconds",
-        "user": "GTD"
+        "user": "GameTilDead"
     },
     {
         "name": "Supercharged+",
@@ -535,9 +535,9 @@
     },
     {
         "name": "Effective",
-        "value": 94074,
+        "value": 112590,
         "unit": "ZP",
-        "user": "Tizago"
+        "user": "GameTilDead"
     },
     {
         "name": "Supercharged",
@@ -555,7 +555,7 @@
         "name": "Zenith Speedrun+",
         "value": 24.505,
         "unit": "seconds",
-        "user": "GTD"
+        "user": "GameTilDead"
     },
     {
         "name": "Zenith Speedrunner",
@@ -651,7 +651,7 @@
         "name": "Perfect Speedrun",
         "value": 3.53,
         "unit": "q/s",
-        "user": "GTD"
+        "user": "GameTilDead"
     },
     {
         "name": "Perfectionist",
@@ -866,6 +866,12 @@
     {
         "name": "Deadbeat",
         "value": 2791.9,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Zenith Explorer",
+        "value": 15215.8,
         "unit": "meters",
         "user": "Ponies"
     }
