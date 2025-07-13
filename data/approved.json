@@ -1,0 +1,596 @@
+[
+    {
+        "name": "Escape Artist",
+        "value": 168,
+        "unit": "quests",
+        "user": "Ponies"
+    },
+    {
+        "name": "Talentless",
+        "value": 7817.1,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Block Rationing",
+        "value": 647.6,
+        "unit": "meters",
+        "user": "Taha22"
+    },
+    {
+        "name": "The Responsible One",
+        "value": 25,
+        "unit": "revives",
+        "user": "N-IN"
+    },
+    {
+        "name": "Guardian Angel",
+        "value": 17612.7,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Lover's Promise",
+        "value": 12658.1,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Clutch Main",
+        "value": 211,
+        "unit": "quests",
+        "user": "Tizago"
+    },
+    {
+        "name": "The Oblivious Artist",
+        "value": 191,
+        "unit": "quests",
+        "user": "Sunday"
+    },
+    {
+        "name": "Powerless",
+        "value": 7870.7,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "The Pacifist",
+        "value": 354,
+        "unit": "attack",
+        "user": "MrZ"
+    },
+    {
+        "name": "Divine Rejection",
+        "value": 1649.99,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Sunk Cost",
+        "value": 10028.6,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Wax Wings",
+        "value": 1817.92,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Carried",
+        "value": 2581.9,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Empurple",
+        "value": 2919.81,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Patience is a Virtue",
+        "value": 3017.7,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Spotless",
+        "value": 6527.2,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Fel Magic",
+        "value": 236,
+        "unit": "quests",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Arrogance",
+        "value": 772.7,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Honeymoon",
+        "value": 2211.87,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Break Up",
+        "value": 1555.8,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Overprotection",
+        "value": 1986.85,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "The Unreliable One",
+        "value": 18,
+        "unit": "kills",
+        "user": "GTD"
+    },
+    {
+        "name": "Detail Oriented",
+        "value": 0,
+        "unit": "flips",
+        "user": "MrZ"
+    },
+    {
+        "name": "Psychokinesis",
+        "value": 1660.6,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "The Masterful Juggler",
+        "value": 126,
+        "unit": "B2B",
+        "user": "Ponies"
+    },
+    {
+        "name": "Level 19 Cap",
+        "value": 7207.94,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Blight",
+        "value": 18460.7,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Desolation",
+        "value": 15831,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Havoc",
+        "value": 10807.2,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Pandemonium",
+        "value": 5407.8,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Inferno",
+        "value": 4811.2,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Purgatory",
+        "value": 3054.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Perdition",
+        "value": 2286.3,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Cataclysm",
+        "value": 2180.9,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Annihilation",
+        "value": 1733.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Armagedon",
+        "value": 1520.7,
+        "unit": "meters",
+        "user": "GTD"
+    },
+    {
+        "name": "Abyss",
+        "value": 919.6,
+        "unit": "meters",
+        "user": "GTD"
+    },
+    {
+        "name": "The Tyrant",
+        "value": 3995.6,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Asceticism",
+        "value": 5682,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Loaded Dice",
+        "value": 3954.1,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Freefall",
+        "value": 9374.2,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Last Stand",
+        "value": 6351.8,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Damnation",
+        "value": 8909.2,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "The Exile",
+        "value": 7376.9,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "The Warlock",
+        "value": 25252.5,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Bleeding Hearts",
+        "value": 4408.5,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Demonic Speed",
+        "value": 7278.1,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Whizzing Wizard",
+        "value": 14527.9,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "The Grandmaster+",
+        "value": 10165.7,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Pristine",
+        "value": 18153.2,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Storage Overload",
+        "value": 9423.7,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Sweatshop",
+        "value": 3474.3,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Fleeting Memory",
+        "value": 3784.9,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Bnuuy",
+        "value": 2518.9,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Grand-Master! Rounds",
+        "value": 2005.6,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Sweat and Ruin",
+        "value": 1664.66,
+        "unit": "meters",
+        "user": "MrZ"
+    },
+    {
+        "name": "Cupid's Gamble",
+        "value": 1791.9,
+        "unit": "meters",
+        "user": "Taha22"
+    },
+    {
+        "name": "Despairful Longing",
+        "value": 2373,
+        "unit": "meters",
+        "user": "Taha22"
+    },
+    {
+        "name": "Authoritarian Delusion",
+        "value": 1706.2,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Tyranical Dyarchy",
+        "value": 1666.6,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Sisyphean Monarchy",
+        "value": 1701.8,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Kitsune Trickery",
+        "value": 3013.4,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Ambrosia Soda",
+        "value": 10572.7,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Ambrosia Wine",
+        "value": 3054.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "The Emperor",
+        "value": 8436.7,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Temperence",
+        "value": 15127.7,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Wheel of Fortune",
+        "value": 7745.3,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "The Tower",
+        "value": 14730.5,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Strength",
+        "value": 10851.9,
+        "unit": "meters",
+        "user": "Sweetsea"
+    },
+    {
+        "name": "The Devil",
+        "value": 13673.2,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "The Hermit",
+        "value": 11834.7,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "The Magician",
+        "value": 47273.4,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "The Lovers",
+        "value": 12568.1,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Grandmaster",
+        "value": 9865.7,
+        "unit": "meters",
+        "user": ""
+    },
+    {
+        "name": "Starving Artist",
+        "value": 26770.8,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Trained Professionals",
+        "value": 6498.8,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Modern Classic",
+        "value": 9170,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Deadlocked",
+        "value": 6752.1,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Emperor's Decadence",
+        "value": 7716.5,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Divine Mastery",
+        "value": 3410.4,
+        "unit": "meters",
+        "user": "Ponies"
+    },
+    {
+        "name": "Con Artist",
+        "value": 9127.9,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Swamp Water Lite",
+        "value": 10169.3,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Swamp Water",
+        "value": 3054.5,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Zenith Explorer+",
+        "value": 47273.4,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Clicker Speedrun",
+        "value": 12.63,
+        "unit": "seconds",
+        "user": "Ponies"
+    },
+    {
+        "name": "Typer Speedrun",
+        "value": 10.5,
+        "unit": "seconds",
+        "user": "GTD"
+    },
+    {
+        "name": "Supercharged+",
+        "value": 864,
+        "unit": "b2b",
+        "user": "Arghena"
+    },
+    {
+        "name": "Multitasker",
+        "value": 147685,
+        "unit": "mp",
+        "user": "Arghena"
+    },
+    {
+        "name": "Effective",
+        "value": 94074,
+        "unit": "zp",
+        "user": "Tizago"
+    },
+    {
+        "name": "Zenith Speedrun",
+        "value": 47.921,
+        "unit": "seconds",
+        "user": "Ponies"
+    },
+    {
+        "name": "Zenith Speedrun+",
+        "value": 25.512,
+        "unit": "seconds",
+        "user": "Arghena"
+    },
+    {
+        "name": "Zenith Speedrunner",
+        "value": 492,
+        "unit": "seconds",
+        "user": "Ponies"
+    },
+    {
+        "name": "Divine Speedrunner",
+        "value": 819,
+        "unit": "seconds",
+        "user": "Ponies"
+    },
+    {
+        "name": "Zenith Challenger",
+        "value": 113,
+        "unit": "kilometers",
+        "user": "Ponies"
+    },
+    {
+        "name": "Divine Challenger",
+        "value": 60,
+        "unit": "kilometers",
+        "user": "Ponies"
+    },
+    {
+        "name": "The Spike of All Time-",
+        "value": 230,
+        "unit": "spike",
+        "user": "Ponies"
+    },
+    {
+        "name": "The Spike of All Time",
+        "value": 706,
+        "unit": "spike",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "The Spike of All Time+",
+        "value": 791,
+        "unit": "spike",
+        "user": "TheBestNoob"
+    }
+]
