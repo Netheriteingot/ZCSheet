@@ -35,12 +35,16 @@ app.get("/api/approved", (req, res) => {
   res.json(data);
 });
 
-// Submit new data (picture + text)
+// Submit new data (picture + text fields)
 app.post("/api/submit", upload.single("image"), (req, res) => {
-  const { text } = req.body;
+  // Destructure all text fields expected from the form
+  const { name, user, value, unit } = req.body;
   const imgUrl = "/uploads/" + req.file.filename;
   const pending = JSON.parse(fs.readFileSync("data/pending.json"));
-  pending.push({ text, imgUrl, id: Date.now() });
+
+  // Push a new object containing all fields
+  pending.push({ name, user, value, unit, imgUrl, id: Date.now() });
+
   fs.writeFileSync("data/pending.json", JSON.stringify(pending, null, 2));
   res.json({ success: true });
 });
