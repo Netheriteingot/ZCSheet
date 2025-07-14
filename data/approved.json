@@ -181,15 +181,15 @@
     },
     {
         "name": "Pandemonium",
-        "value": 5407.8,
+        "value": 6824.7,
         "unit": "meters",
-        "user": "Arghena"
+        "user": "TheBestNoob"
     },
     {
         "name": "Inferno",
-        "value": 4811.2,
+        "value": 6824.7,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "TheBestNoob"
     },
     {
         "name": "Purgatory",
@@ -669,7 +669,7 @@
         "name": "Cruise Control",
         "value": 26,
         "unit": "ranks",
-        "user": "Ponies + 2 players"
+        "user": "Ponies, Arghena, TheBestNoob"
     },
     {
         "name": "Steganography",
