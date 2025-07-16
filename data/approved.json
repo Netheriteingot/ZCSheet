@@ -241,9 +241,9 @@
     },
     {
         "name": "Loaded Dice",
-        "value": 3954.1,
+        "value": 4668.2,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "Ponies"
     },
     {
         "name": "Freefall",
@@ -559,13 +559,13 @@
     },
     {
         "name": "Zenith Speedrunner",
-        "value": 492,
+        "value": 477.58,
         "unit": "seconds",
         "user": "Ponies"
     },
     {
         "name": "Divine Speedrunner",
-        "value": 819,
+        "value": 758.43,
         "unit": "seconds",
         "user": "Ponies"
     },
