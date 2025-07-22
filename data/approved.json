@@ -79,9 +79,9 @@
     },
     {
         "name": "Carried",
-        "value": 4462.3,
+        "value": 5528.3,
         "unit": "meters",
-        "user": "Echazarel"
+        "user": "MrZ"
     },
     {
         "name": "Empurple",
@@ -360,10 +360,10 @@
         "user": "Ponies"
     },
     {
-        "name": "Tyranical Dyarchy",
-        "value": 1666.6,
+        "name": "Tyrannical Dyarchy",
+        "value": 1721.2,
         "unit": "meters",
-        "user": "Ponies"
+        "user": "MrZ"
     },
     {
         "name": "Sisyphean Monarchy",
@@ -385,9 +385,9 @@
     },
     {
         "name": "Ambrosia Wine",
-        "value": 3054.5,
+        "value": 3595.9,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "Arghena"
     },
     {
         "name": "The Emperor",
@@ -415,9 +415,9 @@
     },
     {
         "name": "Strength",
-        "value": 10851.9,
+        "value": 10904.5,
         "unit": "meters",
-        "user": "Sweetsea"
+        "user": "Ponies"
     },
     {
         "name": "The Devil",
@@ -880,5 +880,11 @@
         "value": 31.8,
         "unit": "m/quest",
         "user": "GameTilDead"
+    },
+    {
+        "name": "Speed Bonus",
+        "value": 10,
+        "unit": "entries",
+        "user": "MrZ"
     }
 ]
