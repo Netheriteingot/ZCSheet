@@ -127,7 +127,7 @@
     },
     {
         "name": "Overprotection",
-        "value": 1986.85,
+        "value": 2100.9,
         "unit": "meters",
         "user": "MrZ"
     },
@@ -229,7 +229,7 @@
     },
     {
         "name": "The Tyrant",
-        "value": 3995.6,
+        "value": 4670.4,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -247,13 +247,13 @@
     },
     {
         "name": "Freefall",
-        "value": 9374.2,
+        "value": 13020.8,
         "unit": "meters",
         "user": "Ponies"
     },
     {
         "name": "Last Stand",
-        "value": 6351.8,
+        "value": 7973.6,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -499,9 +499,9 @@
     },
     {
         "name": "Swamp Water",
-        "value": 3054.5,
+        "value": 4922.6,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "TheBestNoob"
     },
     {
         "name": "Zenith Explorer+",
@@ -547,15 +547,15 @@
     },
     {
         "name": "Zenith Speedrun",
-        "value": 47.921,
+        "value": 39.976,
         "unit": "seconds",
         "user": "Ponies"
     },
     {
         "name": "Zenith Speedrun+",
-        "value": 24.505,
+        "value": 24.002,
         "unit": "seconds",
-        "user": "GameTilDead"
+        "user": "TheBestNoob"
     },
     {
         "name": "Zenith Speedrunner",
@@ -565,7 +565,7 @@
     },
     {
         "name": "Divine Speedrunner",
-        "value": 743.07,
+        "value": 687.09,
         "unit": "seconds",
         "user": "Ponies"
     },
@@ -577,7 +577,7 @@
     },
     {
         "name": "Divine Challenger",
-        "value": 66.29,
+        "value": 72.23,
         "unit": "kilometers",
         "user": "Ponies"
     },
@@ -886,5 +886,11 @@
         "value": 10,
         "unit": "entries",
         "user": "MrZ"
+    },
+    {
+        "name": "Rushed Relationship",
+        "value": 1723.8,
+        "unit": "meters",
+        "user": "Echazarel"
     }
 ]
