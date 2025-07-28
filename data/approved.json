@@ -7,7 +7,7 @@
     },
     {
         "name": "Talentless",
-        "value": 10091.9,
+        "value": 12222.54,
         "unit": "meters",
         "user": "Echazarel"
     },
@@ -37,9 +37,9 @@
     },
     {
         "name": "Clutch Main",
-        "value": 211,
+        "value": 315,
         "unit": "quests",
-        "user": "Tizago"
+        "user": "Sunday"
     },
     {
         "name": "The Oblivious Artist",
@@ -121,9 +121,9 @@
     },
     {
         "name": "Break Up",
-        "value": 1814,
+        "value": 2046.91,
         "unit": "meters",
-        "user": "FMichael"
+        "user": "MrZ"
     },
     {
         "name": "Overprotection",
@@ -217,13 +217,13 @@
     },
     {
         "name": "Armageddon",
-        "value": 1520.7,
+        "value": 1654.52,
         "unit": "meters",
         "user": "GameTilDead"
     },
     {
         "name": "Abyss",
-        "value": 1102.2,
+        "value": 1111.84,
         "unit": "meters",
         "user": "GameTilDead"
     },
@@ -349,7 +349,7 @@
     },
     {
         "name": "Despairful Longing",
-        "value": 2373,
+        "value": 2500,
         "unit": "meters",
         "user": "Taha22"
     },
@@ -535,7 +535,7 @@
     },
     {
         "name": "Effective",
-        "value": 112590,
+        "value": 118771,
         "unit": "ZP",
         "user": "GameTilDead"
     },
@@ -553,7 +553,7 @@
     },
     {
         "name": "Zenith Speedrun+",
-        "value": 24.002,
+        "value": 23.886,
         "unit": "seconds",
         "user": "TheBestNoob"
     },
@@ -787,9 +787,9 @@
     },
     {
         "name": "Painful Relapse",
-        "value": 1720.5,
+        "value": 1971.2,
         "unit": "meters",
-        "user": "Lavender"
+        "user": "Echazarel"
     },
     {
         "name": "Perfectionist",
@@ -829,9 +829,9 @@
     },
     {
         "name": "Endless Gluttony",
-        "value": 1772.85,
+        "value": 2071.4,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "Taha22"
     },
     {
         "name": "Uneasy Alliance",
@@ -871,7 +871,7 @@
     },
     {
         "name": "Zenith Explorer",
-        "value": 15215.8,
+        "value": 17023.6,
         "unit": "meters",
         "user": "Ponies"
     },
