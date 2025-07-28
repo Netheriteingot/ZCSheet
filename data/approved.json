@@ -530,7 +530,7 @@
     {
         "name": "Multitasker",
         "value": 147685,
-        "unit": "MP",
+        "unit": "m*MP",
         "user": "Arghena"
     },
     {
