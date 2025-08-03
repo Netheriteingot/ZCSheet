@@ -1,9 +1,9 @@
 [
     {
         "name": "Escape Artist",
-        "value": 168,
+        "value": 211,
         "unit": "quests",
-        "user": "Ponies"
+        "user": "GameTilDead & Blitzer"
     },
     {
         "name": "Talentless",
@@ -55,7 +55,7 @@
     },
     {
         "name": "The Pacifist",
-        "value": 292,
+        "value": 290,
         "unit": "attack",
         "user": "TheBestNoob"
     },
@@ -193,15 +193,15 @@
     },
     {
         "name": "Purgatory",
-        "value": 3054.5,
+        "value": 3168.89,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "FMichael"
     },
     {
         "name": "Perdition",
-        "value": 2286.3,
+        "value": 2664.75,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "FMichael"
     },
     {
         "name": "Cataclysm",
@@ -211,9 +211,9 @@
     },
     {
         "name": "Annihilation",
-        "value": 1733.5,
+        "value": 1869.94,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "GameTilDead"
     },
     {
         "name": "Armageddon",
@@ -223,7 +223,7 @@
     },
     {
         "name": "Abyss",
-        "value": 1111.84,
+        "value": 1204.44,
         "unit": "meters",
         "user": "GameTilDead"
     },
@@ -265,9 +265,9 @@
     },
     {
         "name": "The Exile",
-        "value": 7376.9,
+        "value": 9040.8,
         "unit": "meters",
-        "user": "Ponies"
+        "user": "TheBestNoob"
     },
     {
         "name": "The Warlock",
@@ -289,9 +289,9 @@
     },
     {
         "name": "Whizzing Wizard",
-        "value": 14527.9,
+        "value": 18428.2,
         "unit": "meters",
-        "user": "Arghena"
+        "user": "TheBestNoob"
     },
     {
         "name": "The Grandmaster+",
@@ -319,13 +319,13 @@
     },
     {
         "name": "Fleeting Memory",
-        "value": 3784.9,
+        "value": 4791.79,
         "unit": "meters",
         "user": "Ponies"
     },
     {
         "name": "Bnuuy",
-        "value": 2518.9,
+        "value": 3568.4,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -373,7 +373,7 @@
     },
     {
         "name": "Kitsune Trickery",
-        "value": 3013.4,
+        "value": 6463,
         "unit": "meters",
         "user": "Tizago"
     },
@@ -427,7 +427,7 @@
     },
     {
         "name": "The Hermit",
-        "value": 11834.7,
+        "value": 14471.18,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -445,7 +445,7 @@
     },
     {
         "name": "Grandmaster",
-        "value": 9865.7,
+        "value": 14645.91,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -463,9 +463,9 @@
     },
     {
         "name": "Modern Classic",
-        "value": 9170,
+        "value": 13448.43,
         "unit": "meters",
-        "user": "Ponies"
+        "user": "Echazarel"
     },
     {
         "name": "Deadlocked",
@@ -547,7 +547,7 @@
     },
     {
         "name": "Zenith Speedrun",
-        "value": 39.976,
+        "value": 37.146,
         "unit": "seconds",
         "user": "Ponies"
     },
@@ -673,7 +673,7 @@
     },
     {
         "name": "Steganography",
-        "value": 5921.5,
+        "value": 12907.4,
         "unit": "meters",
         "user": "Arghena"
     },
@@ -871,7 +871,7 @@
     },
     {
         "name": "Zenith Explorer",
-        "value": 17023.6,
+        "value": 18068.73,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -883,9 +883,9 @@
     },
     {
         "name": "Speed Bonus",
-        "value": 10,
+        "value": 11,
         "unit": "entries",
-        "user": "MrZ"
+        "user": "Ponies"
     },
     {
         "name": "Rushed Relationship",
@@ -894,3 +894,4 @@
         "user": "Echazarel"
     }
 ]
+
