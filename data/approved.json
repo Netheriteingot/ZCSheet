@@ -876,10 +876,16 @@
         "user": "Ponies"
     },
     {
-        "name": "Plonk",
-        "value": 31.8,
+        "name": "Plonk (pre-1.12.1)",
+        "value": 40.5,
         "unit": "m/quest",
-        "user": "GameTilDead"
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Plonk",
+        "value": 170.38,
+        "unit": "meters",
+        "user": "Sunday"
     },
     {
         "name": "Speed Bonus",
@@ -894,4 +900,5 @@
         "user": "Echazarel"
     }
 ]
+
 
