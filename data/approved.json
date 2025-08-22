@@ -7,7 +7,7 @@
     },
     {
         "name": "Talentless",
-        "value": 12222.54,
+        "value": 12424.38,
         "unit": "meters",
         "user": "Echazarel"
     },
@@ -31,7 +31,7 @@
     },
     {
         "name": "Lover's Promise",
-        "value": 12658.1,
+        "value": 16019.53,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -73,15 +73,15 @@
     },
     {
         "name": "Wax Wings",
-        "value": 1817.92,
+        "value": 2136.99,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "Blitzer"
     },
     {
         "name": "Carried",
-        "value": 5528.3,
+        "value": 15673.48,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "TheBestNoob"
     },
     {
         "name": "Empurple",
@@ -127,9 +127,9 @@
     },
     {
         "name": "Overprotection",
-        "value": 2100.93,
+        "value": 2382.08,
         "unit": "meters",
-        "user": "Taha22"
+        "user": "Echazarel"
     },
     {
         "name": "The Unreliable One",
@@ -151,15 +151,15 @@
     },
     {
         "name": "The Masterful Juggler",
-        "value": 126,
+        "value": 141,
         "unit": "B2B",
-        "user": "Ponies"
+        "user": "Blitzer"
     },
     {
         "name": "Level 19 Cap",
-        "value": 7207.94,
+        "value": 10226.80,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "Ponies"
     },
     {
         "name": "Blight",
@@ -223,13 +223,13 @@
     },
     {
         "name": "Abyss",
-        "value": 1204.44,
+        "value": 1279.51,
         "unit": "meters",
         "user": "GameTilDead"
     },
     {
         "name": "The Tyrant",
-        "value": 4670.4,
+        "value": 5845.56,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -259,9 +259,9 @@
     },
     {
         "name": "Damnation",
-        "value": 8909.2,
+        "value": 11455.25,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "Ponies"
     },
     {
         "name": "The Exile",
@@ -325,15 +325,15 @@
     },
     {
         "name": "Bnuuy",
-        "value": 3568.4,
+        "value": 3968.66,
         "unit": "meters",
-        "user": "Ponies"
+        "user": "Sunday"
     },
     {
         "name": "Grand-Master! Rounds",
-        "value": 2005.6,
+        "value": 2823.68,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "Sunday"
     },
     {
         "name": "Sweat and Ruin",
@@ -361,9 +361,9 @@
     },
     {
         "name": "Tyrannical Dyarchy",
-        "value": 1721.2,
+        "value": 3026.6,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "Ponies"
     },
     {
         "name": "Sisyphean Monarchy",
@@ -391,19 +391,19 @@
     },
     {
         "name": "The Emperor",
-        "value": 8436.7,
+        "value": 11046.02,
         "unit": "meters",
         "user": "Ponies"
     },
     {
         "name": "Temperence",
-        "value": 15127.7,
+        "value": 17376.30,
         "unit": "meters",
         "user": "Ponies"
     },
     {
         "name": "Wheel of Fortune",
-        "value": 7745.3,
+        "value": 9627.39,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -439,7 +439,7 @@
     },
     {
         "name": "The Lovers",
-        "value": 12568.1,
+        "value": 16019.53,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -463,9 +463,9 @@
     },
     {
         "name": "Modern Classic",
-        "value": 13448.43,
+        "value": 15254.4,
         "unit": "meters",
-        "user": "Echazarel"
+        "user": "Ponies"
     },
     {
         "name": "Deadlocked",
@@ -481,7 +481,7 @@
     },
     {
         "name": "Divine Mastery",
-        "value": 3410.4,
+        "value": 4702,
         "unit": "meters",
         "user": "Ponies"
     },
@@ -511,15 +511,15 @@
     },
     {
         "name": "Clicker Speedrun",
-        "value": 12.63,
+        "value": 12.40,
         "unit": "seconds",
         "user": "Ponies"
     },
     {
         "name": "Typer Speedrun",
-        "value": 9.7,
+        "value": 9.3,
         "unit": "seconds",
-        "user": "GameTilDead"
+        "user": "TheBestNoob"
     },
     {
         "name": "Supercharged+",
@@ -535,15 +535,15 @@
     },
     {
         "name": "Effective",
-        "value": 122494,
+        "value": 127947,
         "unit": "ZP",
         "user": "GameTilDead"
     },
     {
         "name": "Supercharged",
-        "value": 288,
+        "value": 350,
         "unit": "B2B",
-        "user": "MrZ"
+        "user": "Blitzer"
     },
     {
         "name": "Zenith Speedrun",
@@ -553,37 +553,37 @@
     },
     {
         "name": "Zenith Speedrun+",
-        "value": 23.886,
+        "value": 22.947,
         "unit": "seconds",
         "user": "TheBestNoob"
     },
     {
         "name": "Zenith Speedrunner",
-        "value": 426.93,
+        "value": 393.96,
         "unit": "seconds",
         "user": "Ponies"
     },
     {
         "name": "Divine Speedrunner",
-        "value": 687.09,
+        "value": 643.26,
         "unit": "seconds",
         "user": "Ponies"
     },
     {
         "name": "Zenith Challenger",
-        "value": 121.12,
+        "value": 130.01,
         "unit": "kilometers",
         "user": "Ponies"
     },
     {
         "name": "Divine Challenger",
-        "value": 72.23,
+        "value": 79.24,
         "unit": "kilometers",
         "user": "Ponies"
     },
     {
         "name": "The Spike of All Time-",
-        "value": 230,
+        "value": 286,
         "unit": "spike",
         "user": "Ponies"
     },
@@ -679,9 +679,9 @@
     },
     {
         "name": "Trench Warfare",
-        "value": 2561.11,
+        "value": 4801.1,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "Blitzer"
     },
     {
         "name": "Grand-Master!",
@@ -709,9 +709,9 @@
     },
     {
         "name": "Brain Capacity",
-        "value": 6975.3,
+        "value": 8037.6,
         "unit": "meters",
-        "user": "Tizago"
+        "user": "Blitzer"
     },
     {
         "name": "Swamp Water Pro",
@@ -889,16 +889,17 @@
     },
     {
         "name": "Speed Bonus",
-        "value": 11,
+        "value": 12,
         "unit": "entries",
         "user": "Ponies"
     },
     {
         "name": "Rushed Relationship",
-        "value": 1723.8,
+        "value": 1768.4,
         "unit": "meters",
-        "user": "Echazarel"
+        "user": "Blitzer"
     }
 ]
+
 
 
