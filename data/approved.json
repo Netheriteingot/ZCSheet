@@ -1,5 +1,227 @@
 [
     {
+        "name": "Plonk",
+        "value": 188.9,
+        "unit": "meters",
+        "user": "Sunday"
+    },
+    {
+        "name": "Zenith Explorer",
+        "value": 35839.1,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Zenith Explorer+",
+        "value": 55947.1,
+        "unit": "meters",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Clicker Speedrun",
+        "value": 10.65,
+        "unit": "seconds",
+        "user": "Sunday"
+    },
+    {
+        "name": "Naga Eyes",
+        "value": 20.82,
+        "unit": "seconds",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Supercharged",
+        "value": 476,
+        "unit": "B2B",
+        "user": "N-IN"
+    },
+    {
+        "name": "Supercharged+",
+        "value": 864,
+        "unit": "B2B",
+        "user": "Arghena, N-IN"
+    },
+    {
+        "name": "Multitasker",
+        "value": 235380,
+        "unit": "m*MP",
+        "user": "N-IN"
+    },
+    {
+        "name": "Effective",
+        "value": 165000,
+        "unit": "ZP",
+        "user": "Tizago"
+    },
+    {
+        "name": "Zenith Speedrun",
+        "value": 32.140,
+        "unit": "seconds",
+        "user": "Sunday"
+    },
+    {
+        "name": "Zenith Speedrun+",
+        "value": 21.489,
+        "unit": "seconds",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Zenith Challenger",
+        "value": 168.63,
+        "unit": "kilometers",
+        "user": "Ponies"
+    },
+    {
+        "name": "Divine Challenger",
+        "value": 103.14,
+        "unit": "kilometers",
+        "user": "Blitzer"
+    },
+    {
+        "name": "Zenith Speedrunner",
+        "value": 329.19,
+        "unit": "seconds",
+        "user": "Sunday"
+    },
+    {
+        "name": "Divine Speedrunner",
+        "value": 521.91,
+        "unit": "seconds",
+        "user": "Sunday"
+    },
+    {
+        "name": "The Spike of All Time-",
+        "value": 462,
+        "unit": "Spike",
+        "user": "Blitzer"
+    },
+    {
+        "name": "The Spike of All Time",
+        "value": 1265,
+        "unit": "Spike",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "The Spike of All Time+",
+        "value": 1492,
+        "unit": "Spike",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "The Emperor",
+        "value": 16334,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Temperence",
+        "value": 30378.5,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Wheel of Fortune",
+        "value": 13636.3,
+        "unit": "meters",
+        "user": "Blitzer"
+    },
+    {
+        "name": "The Tower",
+        "value": 33293.4,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Strength",
+        "value": 16467.8,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Devil",
+        "value": 27308.9,
+        "unit": "meters",
+        "user": "Blitzer"
+    },
+    {
+        "name": "The Hermit",
+        "value": 28212.9,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Magician",
+        "value": 55947.1,
+        "unit": "meters",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "The Lovers",
+        "value": 26701.6,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Grandmaster",
+        "value": 27332.8,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Starving Artist",
+        "value": 26770.8,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Trained Professionals",
+        "value": 13377.3,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "A Modern Classic",
+        "value": 28555.5,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Deadlock",
+        "value": 11625.3,
+        "unit": "meters",
+        "user": "Blitzer"
+    },
+    {
+        "name": "Emperor's Decadence",
+        "value": 12086.1,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Divine Mastery",
+        "value": 6846.9,
+        "unit": "meters",
+        "user": "Sunday"
+    },
+    {
+        "name": "The Con Artist",
+        "value": 9127.9,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Swamp Water Lite",
+        "value": 19015.4,
+        "unit": "meters",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Swamp Water",
+        "value": 7661.7,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
         "name": "Escape Artist",
         "value": 264,
         "unit": "quests",
@@ -390,219 +612,9 @@
         "user": "Arghena"
     },
     {
-        "name": "The Emperor",
-        "value": 11046.02,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Temperence",
-        "value": 17376.30,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Wheel of Fortune",
-        "value": 11110.77,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "The Tower",
-        "value": 18325.57,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Strength",
-        "value": 12712.05,
-        "unit": "meters",
-        "user": "Blitzer"
-    },
-    {
-        "name": "The Devil",
-        "value": 16353.31,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "The Hermit",
-        "value": 14471.18,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "The Magician",
-        "value": 49956.51,
-        "unit": "meters",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "The Lovers",
-        "value": 16019.53,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Grandmaster",
-        "value": 14645.91,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Starving Artist",
-        "value": 26770.8,
-        "unit": "meters",
-        "user": "Arghena"
-    },
-    {
-        "name": "Trained Professionals",
-        "value": 6498.8,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Modern Classic",
-        "value": 15254.40,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Deadlocked",
-        "value": 9208.22,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Emperor's Decadence",
-        "value": 7716.5,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Divine Mastery",
-        "value": 4702,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Con Artist",
-        "value": 9127.9,
-        "unit": "meters",
-        "user": "Arghena"
-    },
-    {
-        "name": "Swamp Water Lite",
-        "value": 10169.3,
-        "unit": "meters",
-        "user": "Arghena"
-    },
-    {
-        "name": "Swamp Water",
-        "value": 4922.6,
-        "unit": "meters",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "Zenith Explorer+",
-        "value": 55947.1,
-        "unit": "meters",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "Clicker Speedrun",
-        "value": 10.65,
-        "unit": "seconds",
-        "user": "Sunday"
-    },
-    {
-        "name": "Naga Eyes",
-        "value": 20.82,
-        "unit": "seconds",
-        "user": "TheBestNoob"
-    }
-    {
         "name": "Typer Speedrun",
         "value": 8.54,
         "unit": "seconds",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "Supercharged+",
-        "value": 864,
-        "unit": "B2B",
-        "user": "Arghena, N-IN"
-    },
-    {
-        "name": "Multitasker",
-        "value": 235380,
-        "unit": "m*MP",
-        "user": "N-IN"
-    },
-    {
-        "name": "Effective",
-        "value": 165000,
-        "unit": "ZP",
-        "user": "Tizago"
-    },
-    {
-        "name": "Supercharged",
-        "value": 476,
-        "unit": "B2B",
-        "user": "N-IN"
-    },
-    {
-        "name": "Zenith Speedrun",
-        "value": 32.140,
-        "unit": "seconds",
-        "user": "Sunday"
-    },
-    {
-        "name": "Zenith Speedrun+",
-        "value": 21.489,
-        "unit": "seconds",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "Zenith Speedrunner",
-        "value": 329.19,
-        "unit": "seconds",
-        "user": "Sunday"
-    },
-    {
-        "name": "Divine Speedrunner",
-        "value": 521.91,
-        "unit": "seconds",
-        "user": "Sunday"
-    },
-    {
-        "name": "Zenith Challenger",
-        "value": 168.63,
-        "unit": "kilometers",
-        "user": "Ponies"
-    },
-    {
-        "name": "Divine Challenger",
-        "value": 103.14,
-        "unit": "kilometers",
-        "user": "Blitzer"
-    },
-    {
-        "name": "The Spike of All Time-",
-        "value": 462,
-        "unit": "Spike",
-        "user": "Blitzer"
-    },
-    {
-        "name": "The Spike of All Time",
-        "value": 1265,
-        "unit": "Spike",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "The Spike of All Time+",
-        "value": 1492,
-        "unit": "Spike",
         "user": "TheBestNoob"
     },
     {
@@ -870,22 +882,10 @@
         "user": "Blitzer"
     },
     {
-        "name": "Zenith Explorer",
-        "value": 35839.1,
-        "unit": "meters",
-        "user": "N-IN"
-    },
-    {
         "name": "Plonk (pre-rework)",
         "value": 40.5,
         "unit": "m/quest",
         "user": "TheBestNoob"
-    },
-    {
-        "name": "Plonk",
-        "value": 188.9,
-        "unit": "meters",
-        "user": "Sunday"
     },
     {
         "name": "Speed Bonus",
