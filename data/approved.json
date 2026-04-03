@@ -1,4 +1,5 @@
 [
+    {"category-name": "GENERAL"},
     {
         "name": "Plonk",
         "value": 188.9,
@@ -107,6 +108,7 @@
         "unit": "Spike",
         "user": "TheBestNoob"
     },
+    {"category-name": "MOD"},
     {
         "name": "The Emperor",
         "value": 16334,
@@ -221,173 +223,157 @@
         "unit": "meters",
         "user": "Tizago"
     },
+    {"category-name": "REVMOD"},
     {
-        "name": "Escape Artist",
-        "value": 264,
-        "unit": "quests",
-        "user": "Blitzer"
-    },
-    {
-        "name": "Talentless",
-        "value": 14357.83,
+        "name": "The Tyrant",
+        "value": 7949.9,
         "unit": "meters",
-        "user": "Blitzer"
-    },
-    {
-        "name": "Block Rationing",
-        "value": 647.6,
-        "unit": "meters",
-        "user": "Taha22"
-    },
-    {
-        "name": "The Responsible One",
-        "value": 25,
-        "unit": "revives",
         "user": "N-IN"
     },
     {
-        "name": "Guardian Angel",
-        "value": 17612.7,
-        "unit": "meters",
-        "user": "Arghena"
-    },
-    {
-        "name": "Lover's Promise",
-        "value": 16019.53,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Clutch Main",
-        "value": 315,
-        "unit": "quests",
-        "user": "Sunday"
-    },
-    {
-        "name": "The Oblivious Artist",
-        "value": 252,
-        "unit": "quests",
-        "user": "Sunday"
-    },
-    {
-        "name": "Powerless",
-        "value": 11738.2,
-        "unit": "meters",
-        "user": "Arghena"
-    },
-    {
-        "name": "The Pacifist",
-        "value": 290,
-        "unit": "attack",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "Divine Rejection",
-        "value": 1649.99,
-        "unit": "meters",
-        "user": "MrZ"
-    },
-    {
-        "name": "Sunk Cost",
-        "value": 10028.6,
-        "unit": "meters",
-        "user": "Arghena"
-    },
-    {
-        "name": "Wax Wings",
-        "value": 2412.74,
-        "unit": "meters",
-        "user": "MrZ"
-    },
-    {
-        "name": "Carried",
-        "value": 15673.48,
-        "unit": "meters",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "Empurple",
-        "value": 4696.06,
-        "unit": "meters",
-        "user": "Sunday"
-    },
-    {
-        "name": "Patience is a Virtue",
-        "value": 3038.54,
-        "unit": "meters",
-        "user": "Arghena"
-    },
-    {
-        "name": "Spotless",
-        "value": 6527.2,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Fel Magic",
-        "value": 236,
-        "unit": "quests",
-        "user": "TheBestNoob"
-    },
-    {
-        "name": "Arrogance",
-        "value": 783.21,
+        "name": "Asceticism",
+        "value": 7986.6,
         "unit": "meters",
         "user": "Blitzer"
     },
     {
-        "name": "Honeymoon",
-        "value": 7526.9,
+        "name": "Loaded Dice",
+        "value": 7742.2,
         "unit": "meters",
-        "user": "Arghena"
+        "user": "Blitzer"
     },
     {
-        "name": "Break Up",
-        "value": 2046.91,
+        "name": "Freefall",
+        "value": 28714,
         "unit": "meters",
-        "user": "MrZ"
+        "user": "N-IN"
     },
     {
-        "name": "Overprotection",
-        "value": 2725.76,
+        "name": "Last Stand",
+        "value": 7973.6,
         "unit": "meters",
         "user": "Ponies"
     },
     {
-        "name": "The Unreliable One",
-        "value": 23,
-        "unit": "kills",
-        "user": "GameTilDead"
+        "name": "Damnation",
+        "value": 20299,
+        "unit": "meters",
+        "user": "Tizago"
     },
     {
-        "name": "Detail Oriented",
-        "value": 0,
-        "unit": "flips",
-        "user": "MrZ"
+        "name": "The Exile",
+        "value": 23629.5,
+        "unit": "meters",
+        "user": "N-IN"
     },
     {
-        "name": "Psychokinesis",
-        "value": 1660.6,
+        "name": "The Warlock",
+        "value": 45621.7,
+        "unit": "meters",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Bleeding Hearts",
+        "value": 11374.8,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Grandmaster+",
+        "value": 20507.9,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Magic School",
+        "value": 5891.7,
         "unit": "meters",
         "user": "MrZ"
     },
     {
-        "name": "The Masterful Juggler",
-        "value": 152,
-        "unit": "B2B",
-        "user": "Blitzer"
+        "name": "Spellcaster",
+        "value": 11133,
+        "unit": "meters",
+        "user": "Tizago"
     },
     {
-        "name": "Level 19 Cap",
-        "value": 10884.08,
+        "name": "Demonic Speed",
+        "value": 9278.9,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Bnuuy",
+        "value": 4303.3,
         "unit": "meters",
         "user": "Blitzer"
     },
     {
-        "name": "Blight",
+        "name": "Grand-Master! Rounds",
+        "value": 6430.9,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Sweat and Ruin",
+        "value": 2091.2,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Cupid's Gamble",
+        "value": 2670,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Despairful Longing",
+        "value": 4838.1,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Authoritarian Delusion",
+        "value": 3899.6,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Tyrannical Dyarchy",
+        "value": 5781.6,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Sisyphean Monarchy",
+        "value": 2332.3,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Kitsune Trickery",
+        "value": 10099.8,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {
+        "name": "Ambrosia Soda",
         "value": 19015.4,
         "unit": "meters",
         "user": "TheBestNoob"
+    },
+    {
+        "name": "Ambrosia Wine",
+        "value": 7661.7,
+        "unit": "meters",
+        "user": "Tizago"
+    },
+    {"category-name": "WHY"},
+    {
+        "name": "Blight",
+        "value": 29422.5,
+        "unit": "meters",
+        "user": "N-IN"
     },
     {
         "name": "Desolation",
@@ -403,7 +389,7 @@
     },
     {
         "name": "Pandemonium",
-        "value": 10000.5,
+        "value": 15204.3,
         "unit": "meters",
         "user": "GameTilDead"
     },
@@ -421,195 +407,253 @@
     },
     {
         "name": "Perdition",
-        "value": 4230.6,
+        "value": 5187,
         "unit": "meters",
         "user": "GameTilDead"
     },
     {
         "name": "Cataclysm",
-        "value": 2832.1,
+        "value": 4247.7,
         "unit": "meters",
-        "user": "GameTilDead"
+        "user": "Tizago"
     },
     {
         "name": "Annihilation",
-        "value": 1869.94,
+        "value": 2029,
         "unit": "meters",
-        "user": "GameTilDead"
+        "user": "Tizago"
     },
     {
         "name": "Armageddon",
-        "value": 1654.52,
+        "value": 1933.4,
         "unit": "meters",
-        "user": "GameTilDead"
+        "user": "Tizago"
     },
     {
         "name": "Abyss",
-        "value": 1365.53,
+        "value": 1650,
         "unit": "meters",
-        "user": "GameTilDead"
+        "user": "Tizago"
     },
+    {"category-name": "SPECIAL"},
     {
-        "name": "The Tyrant",
-        "value": 5845.56,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Asceticism",
-        "value": 6220.87,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Loaded Dice",
-        "value": 6570.24,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Freefall",
-        "value": 14914.08,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Last Stand",
-        "value": 7973.6,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Damnation",
-        "value": 12462.6,
+        "name": "Talentless",
+        "value": 26065.5,
         "unit": "meters",
         "user": "Blitzer"
     },
     {
-        "name": "The Exile",
-        "value": 11389.4,
+        "name": "Quest Rationing",
+        "value": 647.6,
         "unit": "meters",
-        "user": "Ponies"
+        "user": "Taha22"
     },
     {
-        "name": "The Warlock",
-        "value": 36684.5,
+        "name": "The Responsible One",
+        "value": 36,
+        "unit": "revives",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Unreliable One",
+        "value": 26,
+        "unit": "kills",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Responsible One+",
+        "value": 308,
+        "unit": "points",
+        "user": "N-IN"
+    },
+    {
+        "name": "Guardian Angel",
+        "value": 29051.1,
         "unit": "meters",
         "user": "TheBestNoob"
     },
     {
-        "name": "Bleeding Hearts",
-        "value": 4810.45,
+        "name": "Carried",
+        "value": 15673.4,
+        "unit": "meters",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Level 19 Cap",
+        "value": 17650.4,
         "unit": "meters",
         "user": "Blitzer"
     },
     {
-        "name": "Demonic Speed",
-        "value": 8604.89,
-        "unit": "meters",
-        "user": "Ponies"
+        "name": "Speed Bonus",
+        "value": 23,
+        "unit": "entries",
+        "user": "Sunday"
     },
     {
-        "name": "Whizzing Wizard",
-        "value": 18428.2,
+        "name": "The Escape Artist",
+        "value": 273,
+        "unit": "quests",
+        "user": "Sunday"
+    },
+     {
+        "name": "Fel Magic",
+        "value": 236,
+        "unit": "quests",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Empurple",
+        "value": 5966.2,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Faltered",
+        "value": 2460.1,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Patience is a Virtue",
+        "value": 3283,
+        "unit": "meters",
+        "user": "Sunday"
+    },
+    {
+        "name": "Spotless",
+        "value": 25692.3,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "A Mutual Agreement",
+        "value": 4795.3,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Cheaters",
+        "value": 2568,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Overprotection",
+        "value": 3132.2,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Clutch Main",
+        "value": 467,
+        "unit": "quests",
+        "user": "N-IN"
+    },
+    {
+        "name": "Sunk Cost",
+        "value": 16494.2,
+        "unit": "meters",
+        "user": "Sunday"
+    },
+    {
+        "name": "Wax Wings",
+        "value": 5116.5,
+        "unit": "meters",
+        "user": "Sunday"
+    },
+    {
+        "name": "The Masterful Juggler",
+        "value": 282,
+        "unit": "B2B",
+        "user": "N-IN"
+    },
+    {
+        "name": "The Oblivious Artist",
+        "value": 363,
+        "unit": "quests",
+        "user": "Sunday"
+    },
+    {
+        "name": "Zero-to-sixty",
+        "value": 4.96,
+        "unit": "seconds",
+        "user": "Sunday"
+    },
+    {
+        "name": "Arrogance",
+        "value": 783.2,
+        "unit": "meters",
+        "user": "Blitzer"
+    },
+    {
+        "name": "Scarcity Mindset",
+        "value": 57,
+        "unit": "flips",
+        "user": "FMichael, F1e308, MrZ"
+    },
+    {
+        "name": "Detail Oriented",
+        "value": 0,
+        "unit": "flips",
+        "user": "MrZ, TheBestNoob, Sunday"
+    },
+    {
+        "name": "Psychokinesis",
+        "value": 1998.4,
         "unit": "meters",
         "user": "TheBestNoob"
     },
     {
-        "name": "The Grandmaster+",
-        "value": 10165.7,
+        "name": "Lover's Promise",
+        "value": 26701.6,
         "unit": "meters",
-        "user": "Ponies"
+        "user": "N-IN"
     },
     {
-        "name": "Pristine",
-        "value": 18153.2,
+        "name": "Divine Rejection",
+        "value": 1649.9,
+        "unit": "meters",
+        "user": "MrZ, Sunday, Pikachu"
+    },
+    {
+        "name": "Fickle Fuel",
+        "value": 1803,
+        "unit": "meters",
+        "user": "N-IN"
+    },
+    {
+        "name": "Moon Struck",
+        "value": "Flawless",
+        "unit": "Landing!",
+        "user": "Blitzer, MrZ, GameTilDead,\nFMichael, Echazarel,\nTizago, Sunday"
+    },
+    {"category-name": "SUPERCHARGED CLONE"},
+    {"category-name": "OLD"},
+    {"category-name": "UNSORTED"},
+    {
+        "name": "Powerless",
+        "value": 11738.2,
         "unit": "meters",
         "user": "Arghena"
     },
     {
-        "name": "Storage Overload",
-        "value": 14209.93,
-        "unit": "meters",
-        "user": "GameTilDead"
-    },
-    {
-        "name": "Sweatshop",
-        "value": 3474.3,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Fleeting Memory",
-        "value": 5316.27,
-        "unit": "meters",
-        "user": "Blitzer"
-    },
-    {
-        "name": "Bnuuy",
-        "value": 4303.31,
-        "unit": "meters",
-        "user": "Blitzer"
-    },
-    {
-        "name": "Grand-Master! Rounds",
-        "value": 2823.68,
-        "unit": "meters",
-        "user": "Sunday"
-    },
-    {
-        "name": "Sweat and Ruin",
-        "value": 1783.07,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Cupid's Gamble",
-        "value": 2018.26,
-        "unit": "meters",
-        "user": "Sunday"
-    },
-    {
-        "name": "Despairful Longing",
-        "value": 3305.86,
-        "unit": "meters",
-        "user": "Sunday"
-    },
-    {
-        "name": "Authoritarian Delusion",
-        "value": 2117.89,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Tyrannical Dyarchy",
-        "value": 3026.6,
-        "unit": "meters",
-        "user": "Ponies"
-    },
-    {
-        "name": "Sisyphean Monarchy",
-        "value": 1701.8,
-        "unit": "meters",
-        "user": "Tizago"
-    },
-    {
-        "name": "Kitsune Trickery",
-        "value": 6463,
-        "unit": "meters",
-        "user": "Tizago"
-    },
-    {
-        "name": "Ambrosia Soda",
-        "value": 19015.4,
-        "unit": "meters",
+        "name": "The Pacifist",
+        "value": 290,
+        "unit": "attack",
         "user": "TheBestNoob"
     },
     {
-        "name": "Ambrosia Wine",
-        "value": 3595.9,
+        "name": "Honeymoon",
+        "value": 7526.9,
         "unit": "meters",
         "user": "Arghena"
+    },
+    {
+        "name": "Break Up",
+        "value": 2046.91,
+        "unit": "meters",
+        "user": "MrZ"
     },
     {
         "name": "Typer Speedrun",
@@ -888,14 +932,38 @@
         "user": "TheBestNoob"
     },
     {
-        "name": "Speed Bonus",
-        "value": 12,
-        "unit": "entries",
+        "name": "Rushed Relationship",
+        "value": 2199.4,
+        "unit": "meters",
+        "user": "Blitzer"
+    },
+    {
+        "name": "Pristine",
+        "value": 18153.2,
+        "unit": "meters",
+        "user": "Arghena"
+    },
+    {
+        "name": "Storage Overload",
+        "value": 14209.93,
+        "unit": "meters",
+        "user": "GameTilDead"
+    },
+    {
+        "name": "Sweatshop",
+        "value": 3474.3,
+        "unit": "meters",
         "user": "Ponies"
     },
     {
-        "name": "Rushed Relationship",
-        "value": 2199.4,
+        "name": "Whizzing Wizard",
+        "value": 18428.2,
+        "unit": "meters",
+        "user": "TheBestNoob"
+    },
+    {
+        "name": "Fleeting Memory",
+        "value": 5316.27,
         "unit": "meters",
         "user": "Blitzer"
     }
