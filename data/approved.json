@@ -223,7 +223,7 @@
         "unit": "meters",
         "user": "Tizago"
     },
-    {"category-name": "REVMOD"},
+    {"category-name": "REVERSED MOD"},
     {
         "name": "The Tyrant",
         "value": 7949.9,
@@ -485,12 +485,6 @@
         "user": "Blitzer"
     },
     {
-        "name": "Speed Bonus",
-        "value": 23,
-        "unit": "entries",
-        "user": "Sunday"
-    },
-    {
         "name": "The Escape Artist",
         "value": 273,
         "unit": "quests",
@@ -581,6 +575,12 @@
         "user": "Sunday"
     },
     {
+        "name": "Speed Bonus",
+        "value": 23,
+        "unit": "entries",
+        "user": "Sunday"
+    },
+    {
         "name": "Arrogance",
         "value": 783.2,
         "unit": "meters",
@@ -605,12 +605,6 @@
         "user": "TheBestNoob"
     },
     {
-        "name": "Lover's Promise",
-        "value": 26701.6,
-        "unit": "meters",
-        "user": "N-IN"
-    },
-    {
         "name": "Divine Rejection",
         "value": 1649.9,
         "unit": "meters",
@@ -627,6 +621,12 @@
         "value": "Flawless",
         "unit": "Landing!",
         "user": "Blitzer, MrZ, GameTilDead,\nFMichael, Echazarel,\nTizago, Sunday"
+    },
+    {
+        "name": "Lover's Promise",
+        "value": 26701.6,
+        "unit": "meters",
+        "user": "N-IN"
     },
     {"category-name": "SUPERCHARGED CLONE"},
     {
@@ -708,16 +708,16 @@
         "user": "N-IN"
     },
     {
-        "name": "Dazed",
-        "value": "Rank",
-        "unit": 22,
-        "user": "Tizago, TheBestNoob"
-    },
-    {
         "name": "Space Race",
         "value": 561,
         "unit": "Rank*MP",
         "user": "N-IN"
+    },
+    {
+        "name": "Dazed",
+        "value": "Rank",
+        "unit": 22,
+        "user": "Tizago, TheBestNoob"
     },
     {"category-name": "OLD"},
     {
